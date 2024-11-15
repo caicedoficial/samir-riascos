@@ -64,6 +64,15 @@ ul div li {
     font-size: 1.2em;
 }
 
+.yo {
+    display: block;
+    width: 15em;
+    height: 20em;
+    object-fit: cover;
+    justify-self: center;
+    margin: 1em;
+}
+
 ul li {
     list-style: none;
     font-size: 1.2em;
